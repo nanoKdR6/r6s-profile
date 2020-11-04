@@ -17,7 +17,7 @@ jQuery(document).ready(function( $ ) {
   $('.carousel').carousel({
     interval: 3500
   });
- 
+  
   // Get the modal
   var modal = document.getElementById("myModal");
 

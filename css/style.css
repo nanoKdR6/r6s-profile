@@ -205,7 +205,7 @@ SECTION WRAPS
 }
 
 #skillswrap {
-  background: #2c3e50;
+  background: #202020;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -417,7 +417,6 @@ sm {
   margin: auto;
   display: block;
   width: 80%;
-  max-width: 700px;
 }
 
 /* Caption of Modal Image */
@@ -453,11 +452,10 @@ sm {
 /* The Close Button */
 .close {
   position: absolute;
-  padding: 50px;
-  top: 15px;
+  top: 65px;
   right: 35px;
   color: #f1f1f1;
-  font-size: 40px;
+  font-size: 100px;
   font-weight: bold;
   transition: 0.3s;
 }
