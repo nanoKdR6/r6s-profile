@@ -7,7 +7,7 @@
 
 body {
   background-color: #f2f2f2;
-  font-family: "Lato";
+  font-family: "Prompt";
   font-weight: 300;
   font-size: 16px;
   color: #555;
@@ -156,13 +156,13 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/header-bg.png) no-repeat center top;
+  background: url(../img/header-bg.jpg) no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 500px;
+  min-height: 700px;
   width: 100%;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -187,7 +187,7 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: #202020;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
